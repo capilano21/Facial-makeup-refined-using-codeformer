@@ -1,5 +1,3 @@
-
-```markdown
 # Makeup Application and Face Restoration Pipeline
 
 This repository includes scripts for applying makeup effects to images and then refining them using face restoration techniques. It consists of:
@@ -18,6 +16,8 @@ Make sure you have the following software and libraries installed:
 ### Install Dependencies
 
 Install the necessary libraries using `pip`:
+'``bash
+pip install opencv-python torch numpy Pillow face_recognition basicsr facelib torchvision
 
 
 
