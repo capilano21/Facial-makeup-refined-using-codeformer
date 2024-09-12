@@ -90,6 +90,27 @@ python codeformer.py --enhance_option 2
    ```
 
    - The processed image will be saved in the `results` directory.
+  
+## Results
+
+Below are the results showcasing the original images, different makeup effects applied, and the final output refined using the CodeFormer pipeline.
+
+### Image 1
+| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
+|----------|----------|----------|----------|----------|----------|
+| ![Original 1](path/to/original1.jpg) | ![Makeup 1](path/to/makeup1_1.jpg) | ![Makeup 2](path/to/makeup1_2.jpg) | ![Makeup 3](path/to/makeup1_3.jpg) | ![Makeup 4](path/to/makeup1_4.jpg) | ![Restored](path/to/restored1.jpg) |
+
+### Image 2
+| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
+|----------|----------|----------|----------|----------|----------|
+| ![Original 2](path/to/original2.jpg) | ![Makeup 1](path/to/makeup2_1.jpg) | ![Makeup 2](path/to/makeup2_2.jpg) | ![Makeup 3](path/to/makeup2_3.jpg) | ![Makeup 4](path/to/makeup2_4.jpg) | ![Restored](path/to/restored2.jpg) |
+
+### Image 3
+| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
+|----------|----------|----------|----------|----------|----------|
+| ![Original 3](path/to/original3.jpg) | ![Makeup 1](path/to/makeup3_1.jpg) | ![Makeup 2](path/to/makeup3_2.jpg) | ![Makeup 3](path/to/makeup3_3.jpg) | ![Makeup 4](path/to/makeup3_4.jpg) | ![Restored](path/to/restored3.jpg) |
+
+
 
 ## License
 
