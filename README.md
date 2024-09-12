@@ -20,9 +20,7 @@ Make sure you have the following software and libraries installed:
 
 Install the necessary libraries using `pip`:
 
-```bash
-pip install opencv-python torch numpy Pillow face_recognition basicsr facelib torchvision
-```
+
 
 ### Clone CodeFormer Repository
 
@@ -108,4 +106,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or issues, please open an issue on the [GitHub repository](https://github.com/yourusername/yourrepository).
 ```
 
-Replace placeholders like `<path_to_image>`, `<path_to_output_image>`, and the repository URL with your actual details.
