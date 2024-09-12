@@ -17,7 +17,7 @@ Make sure you have the following software and libraries installed:
 
 Install the necessary libraries using `pip`:
 
-pip install opencv-python torch numpy Pillow face_recognition basicsr facelib torchvision
+'''bash pip install opencv-python torch numpy Pillow face_recognition basicsr facelib torchvision
 
 
 
