@@ -98,17 +98,17 @@ Below are the results showcasing the original images, different makeup effects a
 ### Image 1
 | Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | 
 |----------|----------|----------|----------|----------|
-| ![Original 1](face_1.jpg) | ![Makeup 1](restored_makeup.jpg) | ![Makeup 2](restored_makeup(1).jpg) | ![Makeup 3](restored_makeup(2).jpg) | ![Makeup 4](restored_makeup(3).jpg)  |
+| ![Original 1](face_1.jpg) | ![Makeup 1](restored_makeup.jpg) | ![Makeup 2](restored_makeup (1).jpg) | ![Makeup 3](restored_makeup (2).jpg) | ![Makeup 4](restored_makeup (3).jpg)  |
 
 ### Image 2
-| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
-|----------|----------|----------|----------|----------|----------|
-| ![Original 2](face_2.jpg) | ![Makeup 1](path/to/makeup2_1.jpg) | ![Makeup 2](path/to/makeup2_2.jpg) | ![Makeup 3](path/to/makeup2_3.jpg) | ![Makeup 4](path/to/makeup2_4.jpg) | ![Restored](path/to/restored2.jpg) |
+| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | 
+|----------|----------|----------|----------|----------|
+| ![Original 2](face_2.jpg) | ![Makeup 1](restored_makeup (4).jpg) | ![Makeup 2](restored_makeup (5).jpg) | ![Makeup 3](restored_makeup (6).jpg) | ![Makeup 4](restored_makeup (7).jpg) | 
 
 ### Image 3
-| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
-|----------|----------|----------|----------|----------|----------|
-| ![Original 3](face.jpg) | ![Makeup 1](path/to/makeup3_1.jpg) | ![Makeup 2](path/to/makeup3_2.jpg) | ![Makeup 3](path/to/makeup3_3.jpg) | ![Makeup 4](path/to/makeup3_4.jpg) | ![Restored](path/to/restored3.jpg) |
+| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | 
+|----------|----------|----------|----------|----------|
+| ![Original 3](face.jpg) | ![Makeup 1](restored_makeup (8).jpg) | ![Makeup 2](restored_makeup (9).jpg) | ![Makeup 3](restored_makeup (10).jpg) | ![Makeup 4](restored_makeup (11).jpg)|
 
 
 
