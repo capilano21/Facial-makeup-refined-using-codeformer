@@ -96,9 +96,9 @@ python codeformer.py --enhance_option 2
 Below are the results showcasing the original images, different makeup effects applied, and the final output refined using the CodeFormer pipeline.
 
 ### Image 1
-| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
-|----------|----------|----------|----------|----------|----------|
-| ![Original 1](face.jpg) | ![Makeup 1](makeup_restored.jpg) | ![Makeup 2](path/to/makeup1_2.jpg) | ![Makeup 3](path/to/makeup1_3.jpg) | ![Makeup 4](path/to/makeup1_4.jpg) | ![Restored](path/to/restored1.jpg) |
+| Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | 
+|----------|----------|----------|----------|----------|
+| ![Original 1](face.jpg) | ![Makeup 1](restored_makeup.jpg) | ![Makeup 2](restored_makeup (1).jpg) | ![Makeup 3](restored_makeup (2).jpg) | ![Makeup 4](restored_makeup (3).jpg)  |
 
 ### Image 2
 | Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
