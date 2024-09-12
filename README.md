@@ -98,7 +98,7 @@ Below are the results showcasing the original images, different makeup effects a
 ### Image 1
 | Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
 |----------|----------|----------|----------|----------|----------|
-| ![Original 1](face.jpg) | ![Makeup 1](path/to/makeup1_1.jpg) | ![Makeup 2](path/to/makeup1_2.jpg) | ![Makeup 3](path/to/makeup1_3.jpg) | ![Makeup 4](path/to/makeup1_4.jpg) | ![Restored](path/to/restored1.jpg) |
+| ![Original 1](face.jpg) | ![Makeup 1](makeup_restored.jpg) | ![Makeup 2](path/to/makeup1_2.jpg) | ![Makeup 3](path/to/makeup1_3.jpg) | ![Makeup 4](path/to/makeup1_4.jpg) | ![Restored](path/to/restored1.jpg) |
 
 ### Image 2
 | Original | Makeup 1 | Makeup 2 | Makeup 3 | Makeup 4 | Restored |
