@@ -1,4 +1,3 @@
-Got it! Here’s a ready-to-copy `README.md` for your GitHub repository:
 
 ```markdown
 # Makeup Application and Face Restoration Pipeline
